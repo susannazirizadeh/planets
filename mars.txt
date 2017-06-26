@@ -1,8 +1,17 @@
+<<<<<<< HEAD
 
+=======
+ajfhvadjFV
+>>>>>>> 71a0d77354df053c61f468d2864d7543004da9f4
 khbakdhakg
 Mars is the closest planet to Earth.
 Hello, what up???
 hi again
+<<<<<<< HEAD
 this is a line added by person 
 
 this is the second comment
+=======
+this is a line added by person A
+This is Susan, and I will win
+>>>>>>> 71a0d77354df053c61f468d2864d7543004da9f4
